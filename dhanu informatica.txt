@@ -1,0 +1,41 @@
+1.I have in total of 4 years of experience.All 4 years worked on Informatica power center in banking project.In this project we connect all legacy systems to ETL tool and migrate the data accordingly with our latest application.
+My day to day activities, In this project I used to create new transformations and fix some bugs based on the issue we face in the application.
+Also I used to verify data in the target using SQL queries.Based on this I used to write test cases in a doc and send this for review with peers.
+
+Roles And Responsibilities:
+----------------------------------
+Used to fix the bugs, by correcting mappings at transformation level.
+Created new mappings for new designs introduced.
+Used to create transformations like Filter, router, Union, joiner, sorter, aggregator.
+Used to monitor Data Integration test runs.After runs I used to verify the data in application to check whether data is populating correctly or not.
+Used to write SQL queries in the source level for better performance.
+
+2.Data analysis is nothing but analysing the data, what kind of data it is like structured or unstructured. And able to understand to which functionality the data it belongs to. 
+
+3.I have worked on Informatica Power center and Informatica Developer Client.
+
+4.No I have experience in MSSQL and Oracle Data base. But if I get chance to learn Iam interested.
+
+5.ETL(Extract Transform Load) Process is extract the data from source, and trasform the data using transfornmations based on our requirement and after correcting data then we will load into our target database.Basically it is used for Legacy applications to transform and load into latest applications.
+
+6. Data Engineers role is to understand or correct the data as per applications. Obviously role will get changed after 5 years based on the issues I analyzed the issues. 
+For example if there is any issue in Informatica mapping, data engineer debugs the mapping and check where the data goes wrong.Data engineer analyses and corrects the data.
+
+7.Data Dogder - This is nothing but debugging to find the issues and knows where data goes wrong.
+
+8.In my project there is no tester to test but developer used to create UTP's (Unit Test Plan) and test the data at DB level as well as application level.
+
+9.I dont think the project needs to be improved. But I could have done more better --------------------------------------
+
+10. I have basic knowledge on Core Java. But if I get chance to work on any automation part I am interested to work.
+
+11.Can you please tell me the domain of the project, so that I can get better knowledge in mean while.
+
+
+
+
+
+
+
+
+
